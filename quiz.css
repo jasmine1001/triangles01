@@ -1,0 +1,28 @@
+
+body {
+    font-family: cursive;
+}
+nav{
+    background-color: #EF4444;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 25px;
+    border-bottom-left-radius: 1rem ;
+}   
+h1{
+    text-align: center;
+    color: #EF4444;
+}
+p {
+    text-align: center;
+    font-size:15pt;
+}
+button {
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    font-size: 20px;
+    background-color: #EF4444 ;
+} 
