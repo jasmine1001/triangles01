@@ -2,7 +2,7 @@ body {
     font-family: cursive;
 }
 nav{
-    background-color: #EF4444;
+    background-color: rgb(153, 150, 147);
     padding: 1rem;
     font-weight: bold;
     font-size: 25px;
@@ -10,13 +10,13 @@ nav{
 }   
 h1 {
     text-align: center;
-    color: #EF4444;
+    color: rgb(92, 91, 91);
 }
 label{
     text-align: center;
     padding-left: 44.5rem;
     font-size: 25px;
-    color: #EF4444;
+    color: gray;
 }
 p{
     text-align: center;
@@ -30,5 +30,5 @@ button {
     display: flex;
     display: grid;
     font-size: 20px;
-    background-color: #EF4444 ;
+    background-color: rgb(209, 205, 205) ;
 } 
