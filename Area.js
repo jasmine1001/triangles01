@@ -13,7 +13,7 @@ function calculateAreaoftriangle(){
     const rr = calculateArea(Number(sides[0].value), Number(sides[1].value) ,Number(sides[2].value));
     const lengthOfArea = Math.sqrt(rr);
     console.log(lengthOfArea);
-    outputE2.innerText = "The length of Area is " + lengthOfArea;
+    outputE2.innerText = "The area of the triangle is " + lengthOfArea;
 
 }
 
